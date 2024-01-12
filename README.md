@@ -1,5 +1,5 @@
 # Image_convertor
- Using python's pil library and other functions on nested lists to create different image effects like mirror, greyscale, invert, compress and merge two images.
+ Using python's Pillow library and other functions on nested lists to create different image effects like mirror, greyscale, invert, compress and merge two images.
 
 # How to execute
 
